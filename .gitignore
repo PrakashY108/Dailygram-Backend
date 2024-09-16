@@ -1,0 +1,11 @@
+# Environment files
+.env
+
+# SQL fields file
+sqlfields.txt
+
+# Node.js dependencies
+node_modules/
+
+# Public directory
+public/
